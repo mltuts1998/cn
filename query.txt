@@ -1,0 +1,5 @@
+nmcli dev show | grep DNS
+
+nslookup
+set type=NS
+msrit.edu
